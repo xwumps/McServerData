@@ -1,0 +1,2 @@
+# McServerData
+Minecraft Server Data 
