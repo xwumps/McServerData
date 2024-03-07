@@ -23,4 +23,4 @@
 ### Datei Importieren:
 - Führe die Schritte (**1 und 2**) in Curseforge aus! Anschließend öffne die grade heruntergeladene [Datei](#dateien-downloaden).
 
-![Curseforge](IMG_0929.jpeg)
+![Curseforge](IMG_0929.png)
