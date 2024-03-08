@@ -1,3 +1,5 @@
+# Für Leonie (alle die zu doof zum lesen sind): klicke da drauf!!! --> [Releases](https://github.com/xwumps/McServerData/releases)
+
 ### Inhaltsverzeichnis:
 - [Info](#info)
 - [Wie komme ich auf den Server?](#wie-komm-ich-auf-den-server)
